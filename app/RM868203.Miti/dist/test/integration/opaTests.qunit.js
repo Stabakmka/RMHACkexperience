@@ -1,0 +1,2 @@
+sap.ui.require(["sap/fe/test/JourneyRunner","RM868203/Miti/test/integration/FirstJourney","RM868203/Miti/test/integration/pages/MitigationList","RM868203/Miti/test/integration/pages/MitigationObjectPage","RM868203/Miti/test/integration/pages/RisksObjectPage"],function(t,i,e,n,a){"use strict";var t=new t({launchUrl:sap.ui.require.toUrl("RM868203/Miti")+"/index.html"});t.run({pages:{onTheMitigationList:e,onTheMitigationObjectPage:n,onTheRisksObjectPage:a}},i.run)});
+//# sourceMappingURL=opaTests.qunit.js.map

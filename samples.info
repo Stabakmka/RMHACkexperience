@@ -1,0 +1,14 @@
+[
+	{
+		"entity": "Risks",
+		"namespace": "RM868203",
+		"file": "/home/user/projects/RM868203/db/data/RM868203-Risks.csv",
+		"isFixed": false
+	},
+	{
+		"entity": "Mitigation",
+		"namespace": "RM868203",
+		"file": "/home/user/projects/RM868203/db/data/RM868203-Mitigation.csv",
+		"isFixed": false
+	}
+]

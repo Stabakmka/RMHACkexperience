@@ -1,0 +1,5 @@
+{
+  "ProjectOverviewURL": "https://hackxperience-team-1.launchpad.cfapps.eu10.hana.ondemand.com/lcapRM868203.RM868203Launchpad-1.0.0",
+  "DeployedUTCTime": "2023-07-18T22:20:36.285Z",
+  "ApplicationLogURL": "https://logs.cf.eu10-004.hana.ondemand.com/app/dashboards#/view/Overview?_g=(filters:!((query:(match_phrase:(component_name:RM868203-srv)))))"
+}

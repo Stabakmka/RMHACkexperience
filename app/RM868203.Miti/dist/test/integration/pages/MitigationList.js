@@ -1,0 +1,2 @@
+sap.ui.define(["sap/fe/test/ListReport"],function(t){"use strict";var i={actions:{},assertions:{}};return new t({appId:"RM868203.Miti",componentId:"MitigationList",entitySet:"Mitigation"},i)});
+//# sourceMappingURL=MitigationList.js.map

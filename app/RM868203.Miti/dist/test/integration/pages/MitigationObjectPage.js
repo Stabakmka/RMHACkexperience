@@ -1,0 +1,2 @@
+sap.ui.define(["sap/fe/test/ObjectPage"],function(t){"use strict";var e={actions:{},assertions:{}};return new t({appId:"RM868203.Miti",componentId:"MitigationObjectPage",entitySet:"Mitigation"},e)});
+//# sourceMappingURL=MitigationObjectPage.js.map
